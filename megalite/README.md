@@ -21,6 +21,6 @@
 *pandas*  
 *datetime*  
 *seaborn*  
-*scipy*
+*scipy*  
 *matplotlib*
 
