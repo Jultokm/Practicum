@@ -7,3 +7,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 [Анализ рекламных источников](https://github.com/Jultokm/Practicum/blob/main/Games/) | Сравнение поведения пользователей в зависимости от источника скачивания приложения|*pandas, datetime, seaborn, scipy, matplotlib*| 
 [Определение выгодного тарифа для телеком-компании](https://github.com/Jultokm/Practicum/tree/main/megalite) | Анализ поведения клиентов и поиск оптимального тарифа |*pandas, datetime, seaborn, scipy, matplotlib* |
+[Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://github.com/Jultokm/Practicum/tree/main/AB_test) |Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами |*pandas,datetime,numpy, matplotlib, scipy*|
